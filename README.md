@@ -25,7 +25,7 @@ A new window will pop up and allow you to create a custom keyboard shortcut
 
 Name the shortcut and enter the following as the command
 
-`sh /home/insertTimestamp.sh`
+`sh /home/insertTimestamp.sh` *Remember to adjust the path so it points to where you placed the file.*
 
 Now select a keyboard shortcut.  *I like Super + T`
 
