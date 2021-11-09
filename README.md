@@ -12,3 +12,17 @@ Search for *keyboard shortcuts* by hitting the super key (*windows key*) and typ
 Open `Keyboard Shortcuts`
 
 ![image](https://user-images.githubusercontent.com/26702036/140884389-036d703a-b625-4753-8686-b9f65779e5fd.png)
+
+Now scroll all the way to the bottom and select the `+` sign
+
+![image](https://user-images.githubusercontent.com/26702036/140885016-37317f1e-dd71-44f4-a2e5-4a2864634343.png)
+
+A new window will pop up and allow you to create a custom keyboard shortcut
+![image](https://user-images.githubusercontent.com/26702036/140885083-50cb95fa-8850-4105-807f-2b8ae23ee709.png)
+
+![image](https://user-images.githubusercontent.com/26702036/140885253-cebb48df-0bab-45d1-ba83-20e730d1628a.png)
+Name the shortcut and enter the following as the command
+`sh /home/insertTimestamp.sh`
+Now select a keyboard shortcut.  *I like Super + T`
+Now open up an app (*example: gedit*) and test your shortcut
+![image](https://user-images.githubusercontent.com/26702036/140885678-c8ce1526-6015-4f0c-9d80-89d36fdd58c6.png)
